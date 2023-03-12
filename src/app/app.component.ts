@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Portfolio web Argentina Programa';
-  name = 'Guazzini Maria Florencia'
+  name:string = 'Guazzini Maria Florencia'
   
 }
